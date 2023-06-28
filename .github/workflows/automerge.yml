@@ -17,6 +17,7 @@ on:
     types:
       - completed
   status: {}
+permissions: read-all
 jobs:
   automerge:
     runs-on: ubuntu-latest
