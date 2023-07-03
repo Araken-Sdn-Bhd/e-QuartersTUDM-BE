@@ -6,7 +6,6 @@ on:
    push:
      branches:
        - main
-  #     - unstable
 jobs:
   autoupdate:
     name: autoupdate
